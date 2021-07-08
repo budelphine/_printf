@@ -1,5 +1,5 @@
 # _printf
-Recode standart C function 'printf' and learn how to use variadic arguments
+*Recode standart C function 'printf' and learn how to use variadic arguments*
 
 **How to use** 
 
